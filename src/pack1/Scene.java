@@ -46,7 +46,7 @@ public class Scene {
     }
 
     public String getBackground(){
-        //设置背景
+        //TODO:设置背景
         return background;
     }
 }
